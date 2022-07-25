@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ORLSLienReport", "ORLSLienReport.rptproj", "{F2FE0141-4310-4821-8422-9E123F0C9FF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.Debug|Default.ActiveCfg = Debug
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.Debug|Default.Build.0 = Debug
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.Debug|Default.Deploy.0 = Debug
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.DebugLocal|Default.Build.0 = DebugLocal
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.Release|Default.ActiveCfg = Release
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.Release|Default.Build.0 = Release
+		{F2FE0141-4310-4821-8422-9E123F0C9FF4}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {908315E7-E7B0-441D-869F-76BAAFF3FA26}
+	EndGlobalSection
+EndGlobal
